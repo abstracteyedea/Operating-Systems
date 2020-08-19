@@ -1,0 +1,5 @@
+In operating systems, memory management is the function that manages the computers primary memory(RAM).
+The memory management function keeps track of the status of allocated or 
+free memory and determines how much of the memory is allocated throughout each task. 
+The memory structure contains the volatile memory and secondary memory. Apps are stored in the secondary
+memory, the hard dive of your computer. When you run an app, it moves to the main memory, the RAM of the system. 
