@@ -4,3 +4,9 @@ much of the memory is allocated throughout each task. The memory structure conta
 and secondary memory. Apps are stored in the secondary memory, the hard dive of your computer.
 When you run an app, it moves to the main memory, the RAM of the system.
 
+Loading and executing are another part of operating systems in computer systems.
+The loader is responsible for loading programs and libraries and is essential in
+starting a program. It places the program into memory and prepares them for execution.
+Loading a program involves reading the content of a file with a program instructions
+into memory, and then carrying out other required task to be able to get the program
+up and running.
