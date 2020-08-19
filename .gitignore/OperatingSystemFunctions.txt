@@ -10,3 +10,8 @@ starting a program. It places the program into memory and prepares them for exec
 Loading a program involves reading the content of a file with a program instructions
 into memory, and then carrying out other required task to be able to get the program
 up and running.
+
+Operating system security is the function that ensures the OS integrity, confidentiality and availability.
+OS security pertains to the specific steps or measures used to protect the OS from threats, viruses, worms,
+malware, and hackers. OS security includes all preventative control techniques, which safeguards a computers
+assets from being stolen, edited or deleted if any OS security is compromised.
